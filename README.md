@@ -6,6 +6,7 @@ Make sure that the file ends with `.md` extension.
 
 For example, creating demo.md will lead to a html page at ...premanie/demo.html
 
+```
 ---
 title: This will be used as the title-tag of the page head
 ---
@@ -16,3 +17,4 @@ title: This will be used as the title-tag of the page head
 
 * Bullet lists are also easy to create
 * One more
+```
